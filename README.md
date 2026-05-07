@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/wisalhab/Wissam-Salhab/blob/main/graduation%20Photo.jpg" alt="Profile Picture" width="150" />
+  <img src="https://github.com/wisalhab/wisalhab/blob/main/graduation%20Photo.jpg" alt="Profile Picture" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Wissam Salhab</h1>
